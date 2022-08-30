@@ -1073,6 +1073,9 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/camera@file:./modules/camera":
   version "1.0.1"
   dependencies:
@@ -1331,7 +1334,7 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/book-appointment@file:./screens/book-appointment/":
+"@screens/book-appointment@file:./screens/book-appointment":
   version "1.0.0"
 
 "@screens/contact-us@file:./screens/contact-us":
