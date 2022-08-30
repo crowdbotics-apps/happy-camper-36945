@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-messages-listing](screens/messages-listing)
 - [screen-menu](screens/menu)
 - [react-native-maps](modules/maps)
+- [screen-onboarding](screens/onboarding)
 
 # Getting started: Frontend
 

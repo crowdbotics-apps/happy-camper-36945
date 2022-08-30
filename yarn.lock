@@ -1080,7 +1080,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/payments@file:./modules/payments":
@@ -1328,6 +1328,9 @@
   version "1.0.0"
 
 "@screens/messages-listing@file:./screens/messages-listing":
+  version "1.0.0"
+
+"@screens/onboarding@file:./screens/onboarding/":
   version "1.0.0"
 
 "@screens/photo-library@file:./screens/photo-library":
