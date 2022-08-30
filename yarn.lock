@@ -1326,7 +1326,10 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/invite-friends@file:./screens/invite-friends/":
+"@screens/contact-us@file:./screens/contact-us/":
+  version "1.0.0"
+
+"@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
