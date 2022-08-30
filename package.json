@@ -26,6 +26,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/add-review": "file:./screens/add-review/",
+    "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/onboarding": "file:./screens/onboarding/",
