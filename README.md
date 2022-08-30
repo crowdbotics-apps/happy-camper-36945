@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [privacy-policy]()
 - [screen-photo-library](screens/photo-library)
 - [payments]()
+- [screen-messages-listing](screens/messages-listing)
 
 # Getting started: Frontend
 

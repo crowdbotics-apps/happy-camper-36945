@@ -1321,6 +1321,9 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
+"@screens/messages-listing@file:./screens/messages-listing/":
+  version "1.0.0"
+
 "@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 

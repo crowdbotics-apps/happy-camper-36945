@@ -25,6 +25,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/add-review": "file:./screens/add-review/",
+    "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/review-list": "file:./screens/review-list/",
     "@screens/search-listing": "file:./screens/search-listing/",
