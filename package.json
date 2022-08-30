@@ -23,6 +23,7 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/token": "file:./screens/token/",
+    "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

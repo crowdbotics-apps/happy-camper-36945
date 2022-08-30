@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-review-add](screens/add-review)
 - [react-native-app-menu](modules/app-menu)
 - [screen-about-the-app](screens/about-the-app)
+- [screen-welcome](screens/welcome)
 
 # Getting started: Frontend
 
