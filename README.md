@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-search-listing](screens/search-listing)
 - [screen-review-list](screens/review-list)
+- [privacy-policy]()
 
 # Getting started: Frontend
 

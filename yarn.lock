@@ -1030,6 +1030,11 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
+"@modules/privacy-policy@file:./modules/privacy-policy":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
@@ -1263,7 +1268,7 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/review-list@file:./screens/review-list/":
+"@screens/review-list@file:./screens/review-list":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
