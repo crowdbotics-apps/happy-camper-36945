@@ -1331,6 +1331,9 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
+"@screens/book-appointment@file:./screens/book-appointment/":
+  version "1.0.0"
+
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 

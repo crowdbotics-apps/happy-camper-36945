@@ -80,6 +80,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-invite-friends](screens/invite-friends)
 - [screen-contact-us](screens/contact-us)
 - [camera]()
+- [screen-appointment-booking](screens/book-appointment)
 
 # Getting started: Frontend
 
