@@ -1344,9 +1344,6 @@
 "@screens/menu@file:./screens/menu":
   version "1.0.0"
 
-"@screens/messages-listing@file:./screens/messages-listing":
-  version "1.0.0"
-
 "@screens/onboarding@file:./screens/onboarding":
   version "1.0.0"
 

@@ -71,7 +71,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-review-list](screens/review-list)
 - [screen-photo-library](screens/photo-library)
 - [payments]()
-- [screen-messages-listing](screens/messages-listing)
 - [screen-menu](screens/menu)
 - [react-native-maps](modules/maps)
 - [screen-onboarding](screens/onboarding)

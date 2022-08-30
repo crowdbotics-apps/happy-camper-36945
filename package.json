@@ -32,7 +32,6 @@
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/menu": "file:./screens/menu/",
-    "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/review-list": "file:./screens/review-list/",
