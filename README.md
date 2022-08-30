@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-splash](modules/splash)
 - [screen-review-add](screens/add-review)
 - [react-native-app-menu](modules/app-menu)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
