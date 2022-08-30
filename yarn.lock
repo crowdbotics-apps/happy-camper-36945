@@ -1263,7 +1263,10 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/support-send-feedback@file:./screens/support-send-feedback/":
+"@screens/search-listing@file:./screens/search-listing/":
+  version "1.0.0"
+
+"@screens/support-send-feedback@file:./screens/support-send-feedback":
   version "1.0.0"
 
 "@screens/token@file:./screens/token":
