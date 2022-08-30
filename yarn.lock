@@ -1099,11 +1099,6 @@
 "@modules/payments@file:./modules/payments":
   version "1.0.1"
 
-"@modules/privacy-policy@file:./modules/privacy-policy":
-  version "1.0.1"
-  dependencies:
-    react-native-render-html "^5.1.0"
-
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
   version "1.0.1"
   dependencies:
@@ -1334,7 +1329,7 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/advance-search@file:./screens/advance-search/":
+"@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
 "@screens/book-appointment@file:./screens/book-appointment":
