@@ -79,6 +79,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-onboarding](modules/onboarding)
 - [screen-invite-friends](screens/invite-friends)
 - [screen-contact-us](screens/contact-us)
+- [camera]()
 
 # Getting started: Frontend
 
