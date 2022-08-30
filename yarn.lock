@@ -1038,7 +1038,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
@@ -1261,6 +1261,9 @@
   version "1.0.0"
 
 "@screens/add-review@file:./screens/add-review":
+  version "1.0.0"
+
+"@screens/support-send-feedback@file:./screens/support-send-feedback/":
   version "1.0.0"
 
 "@screens/token@file:./screens/token":

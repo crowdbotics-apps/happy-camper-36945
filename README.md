@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-welcome](screens/welcome)
 - [react-native-user-profile](modules/user-profile)
+- [screen-support-send-feedback](screens/support-send-feedback)
 
 # Getting started: Frontend
 
