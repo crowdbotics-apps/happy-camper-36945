@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-search-listing](screens/search-listing)
+- [screen-review-list](screens/review-list)
 
 # Getting started: Frontend
 
