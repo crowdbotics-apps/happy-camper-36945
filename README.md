@@ -74,6 +74,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-photo-library](screens/photo-library)
 - [payments]()
 - [screen-messages-listing](screens/messages-listing)
+- [screen-menu](screens/menu)
 
 # Getting started: Frontend
 
