@@ -1073,7 +1073,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/articles@file:./modules/articles/":
+"@modules/articles@file:./modules/articles":
   version "1.0.0"
 
 "@modules/camera@file:./modules/camera":
@@ -1332,6 +1332,9 @@
   version "1.0.0"
 
 "@screens/add-review@file:./screens/add-review":
+  version "1.0.0"
+
+"@screens/advance-search@file:./screens/advance-search/":
   version "1.0.0"
 
 "@screens/book-appointment@file:./screens/book-appointment":

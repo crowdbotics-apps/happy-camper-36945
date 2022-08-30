@@ -83,6 +83,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-booking](screens/book-appointment)
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
+- [screen-advance-search](screens/advance-search)
 
 # Getting started: Frontend
 
