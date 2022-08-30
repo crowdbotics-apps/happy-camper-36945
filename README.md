@@ -81,6 +81,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-contact-us](screens/contact-us)
 - [camera]()
 - [screen-appointment-booking](screens/book-appointment)
+- [django-articles](backend/modules)
 
 # Getting started: Frontend
 
